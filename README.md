@@ -1,7 +1,7 @@
 # Competencia_kaggle_Frio-Frio
 https://www.kaggle.com/c/friofrio/overview
 
-Competencia Kaggle en el marco de la materia Organizacion de Datos 2020-2021
+Competencia Kaggle en el marco de la materia Organizacion de Datos (FIUBA) 2020-2021
 
 
 El objetivo de esta segunda parte es resolver un problema de machine learning con los datos del TP1. 
